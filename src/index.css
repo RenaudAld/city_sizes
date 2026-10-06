@@ -84,7 +84,6 @@ h1 { font-size: clamp(2.2rem, 6vw, 4.2rem); line-height: 1.1; margin: 12px 0 20p
 .num { font-family: ui-monospace, monospace; color: var(--magenta); }
 .card h3 { margin: 10px 0 8px; }
 .card p { color: var(--muted); margin: 0; line-height: 1.5; }
-.foot { text-align: center; color: var(--muted); font-family: ui-monospace, monospace; font-size: 0.8rem; margin-top: 60px; }
 
 @media (max-width: 700px) {
   .panel { grid-template-columns: 1fr; }

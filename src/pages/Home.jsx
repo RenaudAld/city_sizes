@@ -60,8 +60,6 @@ export default function Home() {
           </article>
         ))}
       </section>
-
-      <footer className="foot">150+ cities · France · Europe · Australia · USA · World</footer>
     </div>
   )
 }
